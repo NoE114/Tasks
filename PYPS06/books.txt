@@ -1,0 +1,2 @@
+B101,Python Basics,John Doe,Programming,10,7
+B102,SQL Guide,Jane Smith,Database,5,3

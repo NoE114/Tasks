@@ -1,0 +1,2 @@
+S001,Alice,CSE
+S002,Bob,ECE
